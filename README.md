@@ -1,2 +1,0 @@
-# snippetz
-Begin app
